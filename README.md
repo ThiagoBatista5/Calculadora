@@ -25,7 +25,7 @@ O projeto usa `eval()` para processar expressões matemáticas com tratamento de
 
 
 
-- Acesse: http://localhost:5173
+- Acesse: http://calculadora-thiagobatista5-projects.vercel.app/
 - Clique nos botões para usar a calculadora.
 
 ## 📁 Estrutura do Projeto
