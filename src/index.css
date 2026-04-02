@@ -13,11 +13,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-<<<<<<< HEAD
-  min-heigth: 100 vh;
-=======
 
->>>>>>> 5aa87b0 (Atualizção-css)
   
 
 }
@@ -120,13 +116,8 @@ button:focus{
   transition: 0.2s;
 
 }
-<<<<<<< HEAD
-@media (max-width: 480px) {
-  #container {
-    max-width: 100%;
-    width: 90%;
-    margin: 0 auto;
-=======
+
+
 @media (max-width:640px){
   button{
     background-color: rgba(64, 67, 70, 0.187);
@@ -146,6 +137,6 @@ button:focus{
    font-size: 30px;
    transition: 0.1s;
    border-radius: 17px;
->>>>>>> 5aa87b0 (Atualizção-css)
+
   }
 }
