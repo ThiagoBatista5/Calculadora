@@ -9,10 +9,11 @@
 } 
 body{
   
-  background: rgb(9, 0, 14);
+  background: black;
   display: flex;
   justify-content: center;
   align-items: center;
+  min-heigth: 100 vh;
   
 
 }
