@@ -112,3 +112,10 @@ button:focus{
   transition: 0.2s;
 
 }
+@media (max-width: 480px) {
+  #container {
+    max-width: 100%;
+    width: 90%;
+    margin: 0 auto;
+  }
+}
